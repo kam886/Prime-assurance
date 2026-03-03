@@ -15,8 +15,8 @@ Le risque incendie est un enjeu stratégique majeur en assurance : les sinistres
 Pour répondre à la problématique, j'ai implémenté une **modélisation disjointe Fréquence / Coût Moyen**. Cette approche  permet de traiter séparément la probabilité de survenance d'un sinistre et son intensité financière.
 
 La variable finale (la charge) est reconstruite selon la formule actuarielle :
-$$\text{CHARGE} = \text{FREQ} \times \text{CM} \times \text{ANNEE\_ASSURANCE}$$
 
+$$\text{CHARGE} = \text{FREQ} \times \text{CM} \times \text{ANNEE\_ASSURANCE}$$
 
 ### Détails des Modèles (LightGBM)
 Le projet utilise deux modèles basés sur l'algorithme de Gradient Boosting (**LightGBM**) avec des configurations spécifiques :
