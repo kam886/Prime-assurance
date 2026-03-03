@@ -16,7 +16,7 @@ Pour répondre à la problématique, j'ai implémenté une **modélisation disjo
 
 La variable finale (la charge) est reconstruite selon la formule actuarielle :
 
-$$\text{CHARGE} = \text{FREQ} \times \text{CM} \times \text{ANNEE\_ASSURANCE}$$
+$$\text{Charge Total} = \text{Fréquence} \times \text{Coût Moyen} \times \text{Exposition}$$
 
 ### Détails des Modèles (LightGBM)
 Le projet utilise deux modèles basés sur l'algorithme de Gradient Boosting (**LightGBM**) avec des configurations spécifiques :
