@@ -1,6 +1,6 @@
 # Prédiction de la prime d'assurance
 
-Ce projet a été réalisé dans le cadre du challenge proposé par l'Académie Data Science de **Crédit Agricole Assurances**. 
+Ce projet a été réalisé dans le cadre du challenge proposé par l'Académie Data Science. 
 
 ## 🔗 Plateforme et Données
 Les données et le contexte officiel du challenge sont hébergés sur la plateforme ENS Challenge Data :
