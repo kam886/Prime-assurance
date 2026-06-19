@@ -7,7 +7,7 @@ Les données et le contexte officiel du challenge sont hébergés sur la platefo
 👉 **[Accéder au Challenge sur challengedata.ens.fr](https://challengedata.ens.fr)**
 
 ## 📋 Présentation du Projet
-L'objectif principal est de modéliser avec précision la **prime pure incendie** pour les contrats de Multirisque Agricole gérés par Pacifica. 
+L'objectif principal est de modéliser avec précision la **prime pure incendie** pour les contrats de Multirisque Agricole. 
 
 Le risque incendie est un enjeu stratégique majeur en assurance : les sinistres sont statistiquement rares, mais leur impact financier (la "sévérité") peut être extrêmement élevé. Une modélisation précise permet de garantir la continuité de l'activité des agriculteurs tout en assurant l'équilibre technique de l'assureur.
 
