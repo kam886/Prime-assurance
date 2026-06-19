@@ -2,10 +2,6 @@
 
 Ce projet a été réalisé dans le cadre du challenge proposé par l'Académie Data Science. 
 
-## 🔗 Plateforme et Données
-Les données et le contexte officiel du challenge sont hébergés sur la plateforme ENS Challenge Data :
-👉 **[Accéder au Challenge sur challengedata.ens.fr](https://challengedata.ens.fr)**
-
 ## 📋 Présentation du Projet
 L'objectif principal est de modéliser avec précision la **prime pure incendie** pour les contrats de Multirisque Agricole. 
 
